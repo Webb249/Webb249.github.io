@@ -2,3 +2,7 @@
 .pagetheme {
     background-color: #252525;
 }
+
+.pagetheme p {
+    color: #ffffff;
+}
