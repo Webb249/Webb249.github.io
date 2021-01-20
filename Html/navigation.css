@@ -1,13 +1,13 @@
 .topnav {
-    background-color: #650961;
     overflow: hidden;
+    display: flex;
+    justify-content: flex-end;
 }
 
     /* Style the links inside the navigation bar */
     .topnav a {
         float: left;
         color: white;
-        text-align: center;
         padding: 14px 16px;
         text-decoration: none;
         font-size: 17px;
